@@ -22,6 +22,7 @@
     "express": "^4.18.1",
     "moment": "^2.29.4",
     "mongod": "^2.0.0",
+    "mongodb": "^4.9.1",
     "mongoose": "^6.5.4"
   }
 }
