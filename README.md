@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Fikcup/socialnetworkAPI.git
+   git clone git@github.com:gio2nice/socialnetwork-api.git
    ```
 2. Install Dependencies
     ```sh
